@@ -8,3 +8,5 @@ Decoding cited knowledge from scientific preprint servers. This tool will allow 
 This app is hosted on HuggingFace:
 
 https://huggingface.co/spaces/mehradans92/decode-elm
+
+See this [tweet](https://twitter.com/MehradAnsari/status/1627649959204888576) for a demo.
