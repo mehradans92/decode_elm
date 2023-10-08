@@ -5,6 +5,6 @@ Decoding cited knowledge from scientific preprint servers. This tool will allow 
 
 🚧Under development🚧
 
-This app is hosted on huggingface:
+This app is hosted on HuggingFace:
 
 https://huggingface.co/spaces/mehradans92/decode-elm
